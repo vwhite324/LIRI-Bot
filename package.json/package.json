@@ -1,0 +1,24 @@
+{
+  "name": "liribot-node-app",
+  "version": "0.1.0",
+  "description": "LIRI is a Language Interpretation and Recognition Interface.",
+  "main": "liri.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vwhite324/LIRI-Bot.git"
+  },
+  "author": " Vince White",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vwhite324/LIRI-Bot.git"
+  },
+  "homepage": "https://github.com/vwhite324/LIRI-Bot.git",
+  "dependencies": {
+    "request": "^2.79.0",
+    "spotify": "^0.3.0",
+    "twitter": "^1.7.0"
+  }
+}
